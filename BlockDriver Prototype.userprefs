@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Car\ShipStateMachine.js">
+    <Files>
+      <File FileName="Assets\Scripts\HUD\HUD.js" Line="87" Column="58" />
+      <File FileName="Assets\Scripts\Lights\AnimatedLight.js" Line="18" Column="1" />
+      <File FileName="Assets\Scripts\PowerUp\PowerAnimation.js" Line="30" Column="36" />
+      <File FileName="Assets\Scripts\Blocks\MineScript.js" Line="35" Column="14" />
+      <File FileName="Assets\Scripts\Car\ShipStateMachine.js" Line="106" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
